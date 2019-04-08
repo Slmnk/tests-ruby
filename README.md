@@ -1,4 +1,6 @@
 Small exercices in Ruby -- RSpec 3 Edition
+
+Exos Testing Ruby Kise Shary/Wasp
 ==========
 
 ### Set up instructions
